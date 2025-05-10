@@ -1,2 +1,15 @@
 # SalarioMinimo
-Projeto calcula quantos salarios minimos o usuario ganha, o usuario insere quanto ele ganha e o programa retorna a quantidade em salarios minimos, projeto feito a fins de estudo.
+# Projeto: Cálculo de Quantidade de Salários Mínimos
+
+Este é um programa simples em Java que recebe como entrada o salário de um usuário e calcula quantos salários mínimos ele recebe com base no valor do salário mínimo nacional.
+
+---
+
+##  Objetivo
+
+Exercitar os seguintes conceitos de programação em Java:
+
+- Entrada de dados com `Scanner`
+- Operações matemáticas com `double`
+- Saída de dados com `System.out.println`
+- Organização básica de código em uma `main` class
